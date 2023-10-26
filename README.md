@@ -4,7 +4,6 @@ The SuperFocus app is a tech assessment for Zario
 
 
 | Launch | Home |
-| ---- | ---- |
 | ![RPReplay_Final1698291387](https://github.com/sandorferreira1/SuperFocus/assets/86773115/711ddc15-302c-4fa9-a761-aac9214d63e9) |
  |
 
