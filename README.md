@@ -1,6 +1,6 @@
 # SuperFocus
 
-The SuperFocus app is a tech assessment for Zario, making it possible for the user to lock with a Shield the installed applications on his/hers iPhone
+The SuperFocus app is a tech assessment for Zario (http://meetzario.com), making it possible for the user to lock with a Shield the installed applications on his/hers iPhone
 
 ## Screen Time API
 This app uses Screen Time API and its new features to implement Apple's ShieldConfiguration labels, callbacks and more. 
